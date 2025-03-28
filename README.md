@@ -71,4 +71,4 @@ docker ps --filter name=lab5
 
 ![Confirmation that the server is working correctly](img/server_running.png)
 
-Link to the report section: [Link Text](#sprawozdanie).
+Powrót do początku: [<-](#sprawozdanie-z-laboratorium-5).
