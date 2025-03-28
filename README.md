@@ -67,7 +67,7 @@ docker ps --filter name=lab5
 
 ## Potwierdzenie, że aplikacja realizuje wymaganą funkcjonalność
 
-### Uruchomienie w przeglądarce oraz wpisanie adresu http://localhost:80/
+### Uruchomienie przeglądarki oraz wpisanie adresu http://localhost:80/
 
 ![Confirmation that the server is working correctly](img/server_running.png)
 
