@@ -54,7 +54,7 @@ docker build --build-arg VERSION=v.6.4.0 -f Dockerfile -t local/lab5:v1 .
 ## Polecenie uruchamiające serwer:
 
 ```
-docker run -d -p 80:3000 --name=lab5 local/lab5:v1
+docker run -d -p 80:3000 --hostname=test_user --name=lab5 local/lab5:v1
 ```
 
 ## Polecenie potwierdzające działanie kontenera i poprawne funkcjonowanie opracowanej aplikacji:
